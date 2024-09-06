@@ -9,3 +9,7 @@ functional Components में DOM manipulation करता है और rere
 फिर इसी ref को use कर सकते हैं component में xyzRef.current से। एक function बना देना Count handle करने का।
 useRef की default value zero करके, xyzRef.current = xyzRef.current + 1 logic देकर button पर onClick लगा देना।
 alert("clicked" + xyuRef.current + "times");
+
+forwardRef - 
+अगर एक component से दूसरे का DOM manipulate करना हो तो forward Ref. ऐसे component को export करते समय
+export default forwardRef(Xy2 Component); करना होता है।
