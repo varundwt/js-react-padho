@@ -1,0 +1,2 @@
+Ref - 
+ये forcefully Dom को manipulate कर सकता है जो react documett के हिसाब से या तो quoid करना चाहिये या worst case scenario में use कना चाहिये। मैत्रोread का rendering flow है उससे हटकर dom elements को manipulate कर सकता है। इनका घर तब करना चाहिये जब हम third party libraries wrx कर रहे हों या animation या media playbacksit deal कररहे हैं। functional components और Redux से associated libraries/framewaly में नहीं पूत काला चाहिये।
