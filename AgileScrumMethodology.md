@@ -40,5 +40,4 @@ Roles: Product Owner, Scrum Master, and Development Team.
 Artifacts: Product Backlog, Sprint Backlog, and Increment.
 Ceremonies: Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
 Sprints: Time-boxed iterations for delivering product increments.
-Scrum emphasizes collaboration, adaptability, and continuous improvement, making it well-suited for managing complex projects and responding to change effectively
-
+Scrum emphasizes collaboration, adaptability, and continuous improvement, making it well-suited for managing complex projects and responding to change effectively.
