@@ -55,4 +55,3 @@ let apply2 = {
 }
 
 apply1.objectFunction.apply(apply2, ['Football']);
-
