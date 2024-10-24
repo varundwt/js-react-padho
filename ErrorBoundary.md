@@ -8,4 +8,4 @@ Error boundaries do not catch errors for -
 -  Event handlers
 -  Asynchronous code (e.g. setTimeout or requestAnimationFrame callbacks)
 -  Server side rendering
--  Errors thrown in the error boundary itself (rather than its children)
+-  Errors thrown in the error boundary itself (rather than its children).
