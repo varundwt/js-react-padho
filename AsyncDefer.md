@@ -17,4 +17,3 @@ Summary:
 async: Loads and executes the script asynchronously, potentially out of order, as soon as it’s available.
 defer: Loads the script asynchronously but executes it in order after the HTML document has been fully parsed.
 Use async for independent scripts and defer for scripts that depend on DOM being ready and need to execute in sequence.
-
