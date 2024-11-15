@@ -56,5 +56,3 @@ Props: Changes to props passed from a parent component cause the child component
 Summary:
 State: Internal to a component, mutable, used for dynamic data that changes over time.
 Props: External to a component, immutable, used to pass data and functions from parent components to child components.
-
-
