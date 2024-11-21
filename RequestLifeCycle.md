@@ -36,4 +36,3 @@ Server Processing: Server processes the request and generates a response.
 Sending Response: Server sends the response back to the client.
 Receiving Response: Client receives and parses the response.
 Handling Response: Client updates UI or handles errors based on the response.
-
