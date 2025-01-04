@@ -16,7 +16,6 @@ let call2 = {
 
 call1.objectFunction.call(call2);
 
-
 //Bind method also calls a function from an object and uses the properties of another object to be passed as arguments.
 //unlike Call, Bind method doesnt get invoked immediately, we need to create an expression of the method and then call it.
 
