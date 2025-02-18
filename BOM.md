@@ -12,4 +12,4 @@ DOM (Document Object Model) and BOM (Browser Object Model) are both browser inte
 DOM: Manages and manipulates the structure and content of a web page (HTML/XML). It provides methods to interact with elements, attributes, and handle events.
 BOM: Provides interaction with the browser environment. It includes features for managing the URL, browser history, and accessing browser and screen information. Key components include window, location, history, navigator, and screen.
 
-In essence, DOM deals with web page content, while BOM handles browser functionalities.
+In essence, DOM deals with web page content, while BOM handles browser functionalities.....
