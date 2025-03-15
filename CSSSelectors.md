@@ -7,4 +7,4 @@ CSS selectors are used to target and style HTML elements. Key types include:
 - Pseudo-elements: Insert content before or after elements (::before, ::after).
 - Combinators: Select elements based on their relationship (div p, ul > li, h1 + p, h1 ~ p).
 
-These selectors help precisely define styles for various elements on a web page.
+These selectors help precisely define styles for various elements on a web page...
